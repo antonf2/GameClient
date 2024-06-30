@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lm3fbwoNhp/XczKNj3nLG/+WcxbECZsg2EGqHkqPvporxLyvKecUfILqqyaot8ZpwD5KjPWPCUmq4d29Sdppmw==",
+  "dgSpecHash": "rFxYPSbS8jbIrz1bHK4OtnHF75JLd7jW4w20Uqi+mvo0khfTZq2JdA/8WcSTVWxXgzxXjuZ6XHVADTJEQ3Yw4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\TriviaGame\\TriviaGame.csproj",
+  "projectFilePath": "C:\\Users\\antonf\\source\\repos\\GameClientTest2\\TriviaGame\\TriviaGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

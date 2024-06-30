@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BkvCo34RNrMbGmX/t1BoOAdllquSdGbAnkchZJ1/XYHUMX1DO3LFB93qjH3Mr2zZeQ7l6l4TXbRjYfVFneucNg==",
+  "dgSpecHash": "pIVeqvuDnQw3qWUKplnWsPXyoUICsOGoBv2k7asjwJsk8sPavNDBhdup3QUIvJ+Fa4T4NhrTxTvjYoId/OZOdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\CheckersV2\\CheckersV2.csproj",
+  "projectFilePath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\CheckersV2\\CheckersV2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

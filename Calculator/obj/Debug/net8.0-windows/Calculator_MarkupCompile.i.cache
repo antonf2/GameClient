@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\antonf\Desktop\CSharpProject\GameClient\Calculator\obj\Debug\net8.0-windows\
+C:\Users\antonf\source\repos\GameClientTest2\Calculator\obj\Debug\net8.0-windows\
 Calculator
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\antonf\Desktop\CSharpProject\GameClient\Calculator\App.xaml
+C:\Users\antonf\source\repos\GameClientTest2\Calculator\App.xaml
 21588754586
 1-193192835
 71399887397
-199-983632006
+199-1509848819
 MainWindow.xaml;Styles\ButtonStyles.xaml;
 
-False
+True
 

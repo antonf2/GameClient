@@ -61,7 +61,7 @@ namespace GameClient.Templates {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/GameClient;component/templates/appinfowindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/GameClient;V1.0.0.0;component/templates/appinfowindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Templates\AppInfoWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

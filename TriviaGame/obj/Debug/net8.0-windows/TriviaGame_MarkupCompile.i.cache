@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\antonf\Desktop\CSharpProject\GameClient\TriviaGame\obj\Debug\net8.0-windows\
+C:\Users\antonf\Source\Repos\GameClientTest2\TriviaGame\obj\Debug\net8.0-windows\
 TriviaGame
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\antonf\Desktop\CSharpProject\GameClient\TriviaGame\App.xaml
+C:\Users\antonf\Source\Repos\GameClientTest2\TriviaGame\App.xaml
 2-1656786297
 1-1636246196
 8-1644609928
-199-983632006
+199380503348
 MainWindow.xaml;Resources\MainWindowStyle.xaml;
 
 True

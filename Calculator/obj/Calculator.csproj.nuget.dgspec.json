@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\antonf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antonf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj"
+              "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Common\\Common.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj": {
+    "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\antonf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\obj\\",
+        "outputPath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antonf\\AppData\\Roaming\\NuGet\\NuGet.Config",

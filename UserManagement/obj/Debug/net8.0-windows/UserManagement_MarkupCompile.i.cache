@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\antonf\Desktop\CSharpProject\GameClient\UserManagement\obj\Debug\net8.0-windows\
+C:\Users\antonf\Source\Repos\GameClientTest2\UserManagement\obj\Debug\net8.0-windows\
 UserManagement
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\antonf\Desktop\CSharpProject\GameClient\UserManagement\App.xaml
+C:\Users\antonf\Source\Repos\GameClientTest2\UserManagement\App.xaml
 3638546478
 21370628562
 10535900636
-199-983632006
+199380503348
 AddEditUser.xaml;MainWindow.xaml;Members.xaml;
 
-False
+True
 

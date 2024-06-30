@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RpNr13BzQ0BKZcz5EJABpQFXxSw6ETTPI3qVdgscypPsA8I9XlQs1DRTB8UGbjweI+k/4AR2IWZvg8FjNDZajw==",
+  "dgSpecHash": "3PyUtP4/rVjWzdbS6jjoXH5jDLTr2eTfLy8H7TQDuMyp9SVW6foPLXnr2feXAI2lcFqgLc553skXlMO3p0c7dA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\UserManagement\\UserManagement.csproj",
+  "projectFilePath": "C:\\Users\\antonf\\source\\repos\\GameClientTest2\\UserManagement\\UserManagement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

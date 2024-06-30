@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\antonf\Desktop\CSharpProject\GameClient\GameClient\obj\Debug\net8.0-windows\
+C:\Users\antonf\Source\Repos\GameClientTest2\GameClient\obj\Debug\net8.0-windows\
 GameClient
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\antonf\Desktop\CSharpProject\GameClient\GameClient\App.xaml
+C:\Users\antonf\Source\Repos\GameClientTest2\GameClient\App.xaml
 6-2059676271
 
 8-238168776
-205-246776029
+205433371396
 MainWindow.xaml;Styles\ButtonStyle.xaml;Templates\AppCard.xaml;Templates\AppInfoWindow.xaml;Templates\Apps.xaml;Templates\Info.xaml;
 
 False

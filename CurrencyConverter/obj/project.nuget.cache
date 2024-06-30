@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SpbdXSCa7OXl62erqTHKv8YOiW8HfgzIA1ZZIT/XOnetOVWpAR2Dy7G83ogLyobIgEEms+n4eqh39juayztkLw==",
+  "dgSpecHash": "mBL/AxhAM0MoR6te/hjF5v7FkWYNIbrSjemw5DJ3enyL8h02zp4lD0S7rG9dLDMLn+4aWr4EHwCpPOzn8x7Sbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\CurrencyConverter\\CurrencyConverter.csproj",
+  "projectFilePath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\CurrencyConverter\\CurrencyConverter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

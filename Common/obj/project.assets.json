@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj",
+      "projectUniqueName": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj",
+      "projectPath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\antonf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\obj\\",
+      "outputPath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antonf\\AppData\\Roaming\\NuGet\\NuGet.Config",

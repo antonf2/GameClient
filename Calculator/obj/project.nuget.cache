@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "85g6zjLWHVdlFYapzxDkNQOowFvL+z6Q2bsWngg1vJGi95juebDxELOAVQi//B9cFO20obi1o4/m/cqg5f/0IA==",
+  "dgSpecHash": "oF2mEefrBU2L1OKmFQjTW1bEJt0RbL1EukHeG5lhNoDCtijMx/EBpqbaqrxqkNkPAzwj2nafQ2l4KV7Kd/ZU0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

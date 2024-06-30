@@ -35,11 +35,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\TriviaGame\\TriviaGame.csproj",
+      "projectUniqueName": "C:\\Users\\antonf\\source\\repos\\GameClientTest2\\TriviaGame\\TriviaGame.csproj",
       "projectName": "TriviaGame",
-      "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\TriviaGame\\TriviaGame.csproj",
+      "projectPath": "C:\\Users\\antonf\\source\\repos\\GameClientTest2\\TriviaGame\\TriviaGame.csproj",
       "packagesPath": "C:\\Users\\antonf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\TriviaGame\\obj\\",
+      "outputPath": "C:\\Users\\antonf\\source\\repos\\GameClientTest2\\TriviaGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antonf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,8 +56,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj"
+            "C:\\Users\\antonf\\source\\repos\\GameClientTest2\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\antonf\\source\\repos\\GameClientTest2\\Common\\Common.csproj"
             }
           }
         }

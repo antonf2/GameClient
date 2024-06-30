@@ -35,11 +35,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\CurrencyConverter\\CurrencyConverter.csproj",
+      "projectUniqueName": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\CurrencyConverter\\CurrencyConverter.csproj",
       "projectName": "CurrencyConverter",
-      "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\CurrencyConverter\\CurrencyConverter.csproj",
+      "projectPath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\CurrencyConverter\\CurrencyConverter.csproj",
       "packagesPath": "C:\\Users\\antonf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\CurrencyConverter\\obj\\",
+      "outputPath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\CurrencyConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antonf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,8 +56,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj"
+            "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\antonf\\Source\\Repos\\GameClientTest2\\Common\\Common.csproj"
             }
           }
         }

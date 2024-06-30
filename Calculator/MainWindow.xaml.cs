@@ -30,7 +30,7 @@ namespace Calculator
 
         private void btnClose_Click(object sender, RoutedEventArgs e)
         {
-            Application.Current.Shutdown();
+            Close();
         }
 
         private void numBtn_Click(object sender, RoutedEventArgs e)

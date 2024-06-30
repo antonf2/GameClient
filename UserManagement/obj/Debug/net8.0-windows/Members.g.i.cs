@@ -53,7 +53,7 @@ namespace UserManagement {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/UserManagement;component/members.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/UserManagement;V1.0.0.0;component/members.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Members.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

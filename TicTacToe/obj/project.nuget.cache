@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nAfLoXBjVpZuUCbRly2LEeT+vTJVjAxgjhxZB54/Asw4Z9ARxPNKesicf/QJgU+wVcykkaekD5rOw8yDcbFnaA==",
+  "dgSpecHash": "/3beFfBH/9PuJmkSoUwBoeH7Azey8gomWps84U62MiLAYRk99E5URJbT9mSQUy5WikjK/NQiz76hhNHs7pH/ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\TicTacToe\\TicTacToe.csproj",
+  "projectFilePath": "C:\\Users\\antonf\\source\\repos\\GameClientTest2\\TicTacToe\\TicTacToe.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
