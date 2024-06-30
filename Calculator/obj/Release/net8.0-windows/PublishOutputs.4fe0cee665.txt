@@ -1,0 +1,5 @@
+C:\Users\antonf\Desktop\Calculator.exe
+C:\Users\antonf\Desktop\Calculator.dll
+C:\Users\antonf\Desktop\Calculator.deps.json
+C:\Users\antonf\Desktop\Calculator.runtimeconfig.json
+C:\Users\antonf\Desktop\Calculator.pdb

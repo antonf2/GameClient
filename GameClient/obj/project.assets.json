@@ -1,0 +1,252 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Calculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Calculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calculator.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "CheckersV2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CheckersV2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CheckersV2.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Common.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "CurrencyConverter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CurrencyConverter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CurrencyConverter.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "TicTacToe/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TicTacToe.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TicTacToe.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "TriviaGame/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TriviaGame.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TriviaGame.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "UserManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UserManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserManagement.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Calculator/1.0.0": {
+      "type": "project",
+      "path": "../Calculator/Calculator.csproj",
+      "msbuildProject": "../Calculator/Calculator.csproj"
+    },
+    "CheckersV2/1.0.0": {
+      "type": "project",
+      "path": "../CheckersV2/CheckersV2.csproj",
+      "msbuildProject": "../CheckersV2/CheckersV2.csproj"
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "path": "../Common/Common.csproj",
+      "msbuildProject": "../Common/Common.csproj"
+    },
+    "CurrencyConverter/1.0.0": {
+      "type": "project",
+      "path": "../CurrencyConverter/CurrencyConverter.csproj",
+      "msbuildProject": "../CurrencyConverter/CurrencyConverter.csproj"
+    },
+    "TicTacToe/1.0.0": {
+      "type": "project",
+      "path": "../TicTacToe/TicTacToe.csproj",
+      "msbuildProject": "../TicTacToe/TicTacToe.csproj"
+    },
+    "TriviaGame/1.0.0": {
+      "type": "project",
+      "path": "../TriviaGame/TriviaGame.csproj",
+      "msbuildProject": "../TriviaGame/TriviaGame.csproj"
+    },
+    "UserManagement/1.0.0": {
+      "type": "project",
+      "path": "../UserManagement/UserManagement.csproj",
+      "msbuildProject": "../UserManagement/UserManagement.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Calculator >= 1.0.0",
+      "CheckersV2 >= 1.0.0",
+      "Common >= 1.0.0",
+      "CurrencyConverter >= 1.0.0",
+      "TicTacToe >= 1.0.0",
+      "TriviaGame >= 1.0.0",
+      "UserManagement >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\antonf\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\GameClient\\GameClient.csproj",
+      "projectName": "GameClient",
+      "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\GameClient\\GameClient.csproj",
+      "packagesPath": "C:\\Users\\antonf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\GameClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\antonf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Calculator\\Calculator.csproj"
+            },
+            "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\CheckersV2\\CheckersV2.csproj": {
+              "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\CheckersV2\\CheckersV2.csproj"
+            },
+            "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\Common\\Common.csproj"
+            },
+            "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\CurrencyConverter\\CurrencyConverter.csproj": {
+              "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\CurrencyConverter\\CurrencyConverter.csproj"
+            },
+            "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\TicTacToe\\TicTacToe.csproj": {
+              "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\TicTacToe\\TicTacToe.csproj"
+            },
+            "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\TriviaGame\\TriviaGame.csproj": {
+              "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\TriviaGame\\TriviaGame.csproj"
+            },
+            "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\UserManagement\\UserManagement.csproj": {
+              "projectPath": "C:\\Users\\antonf\\Desktop\\CSharpProject\\GameClient\\UserManagement\\UserManagement.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

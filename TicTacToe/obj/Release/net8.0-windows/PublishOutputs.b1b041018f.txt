@@ -1,0 +1,5 @@
+C:\Users\anton\OneDrive\Desktop\TicTacToe\TicTacToe.exe
+C:\Users\anton\OneDrive\Desktop\TicTacToe\TicTacToe.dll
+C:\Users\anton\OneDrive\Desktop\TicTacToe\TicTacToe.deps.json
+C:\Users\anton\OneDrive\Desktop\TicTacToe\TicTacToe.runtimeconfig.json
+C:\Users\anton\OneDrive\Desktop\TicTacToe\TicTacToe.pdb

@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="GameClient.Templates.Info"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GameClient.Templates"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid Background="{StaticResource DefaultBgBrush}">
+            <StackPanel Margin="20">
+                <TextBlock Text="Information Page" FontSize="24" FontWeight="Bold" Margin="0,0,0,20" Foreground="White"/>
+                <TextBlock Text="Name: Anton Fishbein" FontSize="18" Margin="0,0,0,10" Foreground="White"/>
+                <TextBlock Text="Role: .NET Junior" FontSize="18" Margin="0,0,0,10" Foreground="White"/>
+                <TextBlock Text="College: HackerU" FontSize="18" Margin="0,0,0,10" Foreground="White"/>
+                <TextBlock Text="Course: .Net FullStack Development" FontSize="18" Margin="0,0,0,10" Foreground="White"/>
+                <TextBlock Text="Year: 2023-2024" FontSize="18" Margin="0,0,0,10" Foreground="White"/>
+                <TextBlock Text="Application Overview:" FontSize="18" Margin="0,20,0,10" Foreground="White"/>
+                <TextBlock TextWrapping="Wrap" FontSize="16" Foreground="White">
+                The GameClient application is designed to provide a comprehensive platform for managing and exploring various software applications and tools related to .NET and WPF development. 
+                It features a sleek and modern user interface.
+                </TextBlock>
+                <TextBlock Text="Key Features:" FontSize="18" Margin="0,20,0,10" Foreground="White"/>
+                <TextBlock TextWrapping="Wrap" FontSize="16" Foreground="White">
+                    <TextBlock.Inlines>
+                        - **Navigation:** Intuitive navigation system with a NavBar for quick access to different sections, including Apps and Info pages.
+                        <LineBreak/>
+                        - **Responsive Design:** The application adapts to different screen sizes and resolutions, providing an optimal viewing experience.
+                        <LineBreak/>
+                        - **Custom Controls:** Utilizes custom styles and controls to enhance the user experience, such as custom buttons, radio buttons, and a stylish header with functional buttons for minimizing, maximizing, and closing the window.
+                        <LineBreak/>
+                        - **Profile Integration:** Displays user profile information, including name and role, with a profile picture for a personalized touch.
+                        <LineBreak/>
+                        - **Dynamic Content:** The main content area dynamically updates based on user interaction, allowing for a seamless transition between different sections of the application.
+                        <LineBreak/>
+                        - **Event Handling:** Implements event handling for various user interactions, ensuring smooth and responsive application behavior.
+                    </TextBlock.Inlines>
+                </TextBlock>
+                <TextBlock Text="Technologies Used:" FontSize="18" Margin="0,20,0,10" Foreground="White"/>
+                <TextBlock TextWrapping="Wrap" FontSize="16" Foreground="White">
+                    <TextBlock.Inlines>
+                        The application is built using the following technologies:
+                        <LineBreak/>
+                        - **.NET Framework:** Leveraging the power and flexibility of the .NET framework for robust application development.
+                        <LineBreak/>
+                        - **WPF (Windows Presentation Foundation):** Utilizing WPF for creating rich and interactive user interfaces with XAML.
+                        <LineBreak/>
+                        - **C#:** Employing C# as the primary programming language for backend logic and event handling.
+                        <LineBreak/>
+                        - **API Integration:** Incorporates API calls to fetch data and interact with external services, enhancing the application's functionality.
+                        <LineBreak/>
+                        - **JSON:** Uses JSON format for storing and retrieving data, providing a structured and easy-to-manage way to handle data locally.
+                    </TextBlock.Inlines>
+                </TextBlock>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>
